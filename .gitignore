@@ -1,0 +1,22 @@
+# Entorno virtual
+venv/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos del sistema
+.DS_Store
+
+# Archivos de notebooks temporales
+.ipynb_checkpoints
+
+# Archivos de datos grandes
+*.csv
+*.xlsx
+*.json
+
+# Configuraciones locales
+.env
